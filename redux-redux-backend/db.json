@@ -1,0 +1,19 @@
+{
+  "kontaks": [
+    {
+      "nama": "abc",
+      "nohp": "123",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "nama": "afif gaVI",
+      "nohp": "0812356"
+    },
+    {
+      "nama": "ming",
+      "nohp": "0811111111",
+      "id": 6
+    }
+  ]
+}
